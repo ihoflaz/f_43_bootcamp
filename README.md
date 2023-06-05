@@ -1,6 +1,6 @@
 # **Takım İsmi**
 
-Takım Flutter-43
+Takım Flutter 43
 
 # Ürün İle İlgili Bilgiler
 
