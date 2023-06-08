@@ -9,7 +9,7 @@ Takım Flutter 43
 - Nursena Akbaba: Scrum Master / Developer
 - İbrahim Hulusi Oflaz: Developer
 - Bülent Çoruh: Developer
-- Gökhan Özkaya: Aktif Olmayan Üye
+- Gökhan Özkaya: Developer
 
 ## Ürün İsmi
 
