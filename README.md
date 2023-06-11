@@ -38,10 +38,15 @@ SocialPet, evcil hayvanlarınızın sorunlarına yönelik gerek uzman veterinerl
 ## Hedef Kitle
 
 -Evcil hayvan sahiplenmek isteyenler
+
 -Evcil hayvan sahipleri
+
 -Hayvanseverler
+
 -Veterinerler
+
 -Petshop kuruluşları
+
 -Evcil hayvan ürünleri ve hizmetleri sağlayıcıları
 
 
