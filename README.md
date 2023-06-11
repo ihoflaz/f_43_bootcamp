@@ -13,7 +13,7 @@ Takım Flutter 43
 
 ## Ürün İsmi
 
---Petter--
+SocialPet
 
 ## Product Backlog URL
 
@@ -21,58 +21,26 @@ Flutter Team 43 Miro Backlog Board
 
 ## Ürün Açıklaması
 
-Scrap App, daire sakinleri tarafından biriktirilmiş apartman ve sitelere 
-ait kıymetli geri dönüşüm atıklarının, geri dönüştürülebilir atık toplayan 
-firmalar tarafından toplanmasını kolaylaştırır ve apartman yönetimlerinin 
-bir gelir kalemi olarak geri dönüşüm ödemesi almalarını sağlar. Ayrıca 
-hurda ilanı verilebilen bu uygulamada kullanıcılar biriktirdikleri, bakır, 
-demir, çelik, alüminyum, kağıt, cam vb hurdaların satışını ilanlar ile 
-yapabilir. Scrap App, geri dönüştürülebilir atıkların kıymetinine önem 
-verir, apartman ve site gibi, insanların blok halde yaşadığı mekanlarda, 
-onların geri dönüşüm atıklarını topluca biriktirmelerini teşvik eder ve 
-kolaylaştırır. Scrap App kağıt, metal, plastik cam vb ürünlerin geri 
-dönüştürülmesi halinde, insanların kendisi, çevresi ve ülkesi için maddi 
-gelir ve Dünya doğası için sürekli fayda sağlayabileceğini savunur ve geri 
-dönüşüm sayesinde yeniden üretim ve madencilik faaliyetlerinin 
-azaltılabileceğini ve böylece yeniden üretim kaynaklı doğaya olan zararın 
-azaltılması gerektiği fikrini destekler ve yeniden kazanımı hedefler.
+SocialPet, evcil hayvanlarınızın sorunlarına yönelik gerek uzman veterinerlerden gerekse diğer hayvan sahiplerinden görüşler alabileceğiniz, hayvan dostlarımıza özel ürün ve bakım tavsiyelerini bulabileceğiniz, isterseniz tavsiye verebileceğiniz, diğer hayvan sahipleriyle iletişim kurup topluluk oluşturabileceğiniz hayvan dostlarımıza adanmış benzersiz bir mobil uygulamadır. Kendinize yeni bir dost edinmek veya evcil hayvanınıza en iyi bakımı sunmak için size gereken tüm kaynakları sunar.
 
 
-- **Uygulama birincil fonksiyonu**: Apartman/site sakinlerinin geri 
-dönüşebilir kıymetli atıkları apartman hizmetlisi tarafından düzenli 
-olarak toplanarak, akıllı geri dönüşüm kutusunda biriktirilir, toplayıcı 
-firma biriken atıklara ilişkin kutu doluluk oranını uygulama üzerinden 
-görür ve satın alma teklifini apartman yönetimine uygulama ile bildirir, 
-apartman yönetiminin teklif onayından sonra, atık satın alma işlemi 
-gerçekleşir.
-
-- **Uygulama ikincil fonksiyonu**: Kullanıcı elindeki geri dönüşebilir 
-kıymetli maddeler için teklif almak üzere Scrap App'e girer ve ilan verir, 
-toplayıcı firma, kullanıcının ilanına ilişkin ağırlık ve madde türü gibi 
-bilgileri kullanıcının ilanında görür ve satın alma teklifini kullanıcıya 
-bildirir, kullanıcının teklif onayından sonra, hurda satın alma işlemi 
-gerçekleşir.
 
 ## Ürün Özellikleri
 
-- Doluluk oranı %75'in üzerinde olan apartman akıllı atık kutularının kutu 
-doluluk oranının geri dönüşüm atık toplayıcılarına bildirilmesi.
-- Doluluk oranı %75'in üzerinde olan apartman akıllı atık kutularındaki 
-geri dönüşüm maddelerinin satın alınmasına ilişkin, toplayıcı firmalar 
-tarafından satın alma teklifini apartman yönetimlerine sunabilmesi ve 
-yönetici tarafından teklifin kabul edilmesi.
-- Apartmandan bağımsız olarak biriktirilmiş bireysel geri dönüşüm 
-maddelerinin satın alımı için toplayıcı firmalardan teklif alma ve 
-toplayıcı çağırma hizmeti.
-- Kullanıcı, apartman yönetimi, atık toplayıcı firma ve uygulama şirketi 
-için geliştirilmiş kullanıcı rolleri, özellikleri ve ekranları.
+-Evcil Hayvan Sahipleri Topluluğu : Sahiplendiğiniz ya da sahiplenmeyi düşündüğünüz evcil hayvan için birbirinden değerli bilgilere, bakım ve ürün önerilerine, bilinmesi gereken püf noktalara ve hayvan sahiplerinin yorumlarına erişebilirsiniz. Kendi fikirlerinizi de paylaşıp topluluğa katkıda bulunabilirsiniz.
+
+-Mesajlaşma Özelliği: SocialPet, diğer hayvan sahipleriyle birebir kolayca iletişim kurmanızı sağlar. Evcil hayvanınızla ilgili deneyimlerinizi daha spesifik bilgilerle paylaşabilir, direkt sorular sorabilir ve tavsiyeler alabilirsiniz. Bu sayede diğer hayvan sahipleriyle bağlantı kurarak evcil hayvanlarınızın bakımı konusunda daha fazla bilgi edinebilirsiniz.
+
+-Evlat Hayvan Sahiplendirme Platformu: Burada sokakta gördüğünüz, çeşitli nedenlerle bakımına devam edemeyeceğiniz ya da sadece bir yuvaya ihtiyacı olduğunu düşündüğünüz hayvanları paylaşabilir ve onların sahiplenmesine yardımda bulunabilirsiniz. Aynı zamanda siz de sahiplenmek istediğiniz hayvanlara kolayca erişip seçim yapabilir, yeni dostunuza kolay ve hızlı bir şekilde kavuşabilirsiniz.
+
+
 
 ## Hedef Kitle
 
-- Çevreci gönüllüler
-- Apartman yöneticileri
-- Apartman sakinleri
-- Bina yönetim şirketleri 
-- Geri dönüşüm merkezleri
-- Geri dönüşüm atık toplayıcıları
+-Evcil hayvan sahiplenmek isteyenler
+-Evcil hayvan sahipleri
+-Hayvanseverler
+-Veterinerler
+-Petshop kuruluşları
+-Evcil hayvan ürünleri ve hizmetleri sağlayıcıları
 
