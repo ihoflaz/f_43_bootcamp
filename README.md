@@ -70,7 +70,7 @@ Katılımcılar: scrum master, product owner, developer team
 -Gelecek sprintlerde daha aktif olunması gerektiği kararlaştırıldı.
 
 
-![image](https://github.com/ihoflaz/f_43_bootcamp/assets/92941308/cfe690fd-11c5-42e8-8ec7-1b049e1bf06a)
+
 
 
 
