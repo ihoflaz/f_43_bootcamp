@@ -5,15 +5,15 @@ Takım Flutter 43
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
-- Zeynep Betül Hoş: Product Owner / Developer
-- Nursena Akbaba: Scrum Master / Developer
-- İbrahim Hulusi Oflaz: Developer
-- Bülent Çoruh: Developer
-- Gökhan Özkaya: Developer
+- **Zeynep Betül Hoş:** Product Owner / Developer
+- **Nursena Akbaba:** Scrum Master / Developer
+- **İbrahim Hulusi Oflaz:** Developer
+- **Bülent Çoruh:** Developer
+- **Gökhan Özkaya:** Developer
 
 ## Ürün İsmi
 
-SOCIALPet
+SOCIALpet
 
 ## Product Backlog URL
 
