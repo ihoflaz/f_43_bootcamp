@@ -13,7 +13,7 @@ Takım Flutter 43
 
 ## Ürün İsmi
 
-SocialPet
+SOCIALPet
 
 ## Product Backlog URL
 
