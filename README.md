@@ -57,7 +57,7 @@ SocialPet, evcil hayvanlarınızın sorunlarına yönelik gerek uzman veterinerl
 [ Sprint 1 Daily Scrum Chats](https://github.com/ihoflaz/f_43_bootcamp/files/11782315/DailyScrumChat.docx)
 
 
-**Sprint board update:**
+•**Sprint board update:**
 
 
 •**Ürün durumu:**
