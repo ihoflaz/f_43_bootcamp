@@ -53,11 +53,15 @@ SocialPet, evcil hayvanlarınızın sorunlarına yönelik gerek uzman veterinerl
 
 •**Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan
 
+•**Puan tamamlama mantığı:** Buradaki task ve user storyler toplamda 300 puan olan projenin, 1. sprintte 100 puanlık görevlerini tamamlamamız için belirlenmiştir.Her bir görevin puanı içerisindeki açıklamalar bölümünde belirtilmiştir.
+
 •**Daily Scrum:**  Daha kolay iletişim kurulabileceği için görüşmelerin Whatsapp üzerinden yapılmasına karar verilmiştir. Toplantılar Discord üzerinden yapılmıştır. 
 [ Sprint 1 Daily Scrum Chats](https://github.com/ihoflaz/f_43_bootcamp/files/11782315/DailyScrumChat.docx)
 
 
 •**Sprint board update:**
+![WhatsApp Görsel 2023-06-18 saat 23 24 31](https://github.com/ihoflaz/f_43_bootcamp/assets/135666365/c1b7611d-65c5-4580-861c-c1e0614784b5)
+
 
 
 •**Ürün durumu:**
