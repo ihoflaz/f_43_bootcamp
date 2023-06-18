@@ -17,7 +17,7 @@ SocialPet
 
 ## Product Backlog URL
 
-Flutter Team 43 Miro Backlog Board
+[Flutter Team 43 Trello Backlog Board](https://trello.com/invite/flutter_team_43/ATTIc57240f482ec42e2e78f4ce442566b1d5A7E4877)
 
 ## Ürün Açıklaması
 
@@ -48,5 +48,28 @@ SocialPet, evcil hayvanlarınızın sorunlarına yönelik gerek uzman veterinerl
 -Petshop kuruluşları
 
 -Evcil hayvan ürünleri ve hizmetleri sağlayıcıları
+
+## Sprint 1
+
+•**Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan
+
+•**Daily Scrum:**  Daha kolay iletişim kurulabileceği için görüşmelerin Whatsapp üzerinden yapılmasına karar verilmiştir. Toplantılar Discord üzerinden yapılmıştır.
+
+**Sprint board update:**
+
+
+•**Ürün durumu:**
+
+
+•**Sprint Review:** Bu sprintte fikir bulma ve geliştirmeye yönelik birkaç fikirde değişiklik yapıldı. Figmadan kullanıcı temel sayfalarının tasarımı yapıldı. Backlog hazırlandıktan sonra kodlamalara başlandı. 
+Katılımcılar: scrum master, product owner, developer team
+
+•**Sprint Retrospective:** 
+-Daily scrumlara verilen önemin artırılması gerektiği kararlaştırıldı.
+-Takım içinde rollerde güncelleme yapıldı.
+-Gelecek sprintlerde daha aktif olunması gerektiği kararlaştırıldı.
+
+
+
 
 
