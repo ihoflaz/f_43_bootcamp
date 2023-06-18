@@ -72,9 +72,11 @@ SocialPet, evcil hayvanlarınızın sorunlarına yönelik gerek uzman veterinerl
 
 
 •**Sprint Review:** Bu sprintte fikir bulma ve geliştirmeye yönelik birkaç fikirde değişiklik yapıldı. Figmadan kullanıcı temel sayfalarının tasarımı yapıldı. Backlog hazırlandıktan sonra kodlamalara başlandı. 
+
 Katılımcılar: scrum master, product owner, developer team
 
 •**Sprint Retrospective:** 
+
 -Daily scrumlara verilen önemin artırılması gerektiği kararlaştırıldı.
 
 -Takım içinde rollerde güncelleme yapıldı.
