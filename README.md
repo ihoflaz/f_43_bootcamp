@@ -59,6 +59,10 @@ SocialPet, evcil hayvanlarınızın sorunlarına yönelik gerek uzman veterinerl
 
 
 •**Ürün durumu:**
+![HomePage](https://github.com/ihoflaz/f_43_bootcamp/assets/135666365/af85f46f-3c22-46ff-a7e1-9ecccaeb5ce1)
+![SplashPage](https://github.com/ihoflaz/f_43_bootcamp/assets/135666365/2659d4a8-0564-4f70-8fce-bfe1796f28ec)
+
+
 
 
 •**Sprint Review:** Bu sprintte fikir bulma ve geliştirmeye yönelik birkaç fikirde değişiklik yapıldı. Figmadan kullanıcı temel sayfalarının tasarımı yapıldı. Backlog hazırlandıktan sonra kodlamalara başlandı. 
