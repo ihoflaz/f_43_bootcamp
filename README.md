@@ -53,7 +53,8 @@ SocialPet, evcil hayvanlarınızın sorunlarına yönelik gerek uzman veterinerl
 
 •**Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan
 
-•**Daily Scrum:**  Daha kolay iletişim kurulabileceği için görüşmelerin Whatsapp üzerinden yapılmasına karar verilmiştir. Toplantılar Discord üzerinden yapılmıştır.
+•**Daily Scrum:**  Daha kolay iletişim kurulabileceği için görüşmelerin Whatsapp üzerinden yapılmasına karar verilmiştir. Toplantılar Discord üzerinden yapılmıştır. 
+[ Sprint 1 Daily Scrum Chats](https://github.com/ihoflaz/f_43_bootcamp/files/11782315/DailyScrumChat.docx)
 
 
 **Sprint board update:**
