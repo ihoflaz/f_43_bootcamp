@@ -76,8 +76,11 @@ Katılımcılar: scrum master, product owner, developer team
 
 •**Sprint Retrospective:** 
 -Daily scrumlara verilen önemin artırılması gerektiği kararlaştırıldı.
+
 -Takım içinde rollerde güncelleme yapıldı.
+
 -Gelecek sprintlerde daha aktif olunması gerektiği kararlaştırıldı.
+
 
 
 
