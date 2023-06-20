@@ -75,6 +75,8 @@ SocialPet, evcil hayvanlarınızın sorunlarına yönelik gerek uzman veterinerl
 
 Katılımcılar: scrum master, product owner, developer team
 
+•**Sprint-1 Notu:** Sprint-1 aşamasında takımdaki çoğu arkadaşımızın final haftası olduğu için görev dağılımları çok yoğun yapılmadı. Genel olarak tasarım ve fikir geliştirme üzerine toplantılar yapıldı. Daily scrumlar da final haftası sebebiyle biraz aksasa da diğer sprintlerde dikkat edilmesi gerektiği vurgulandı. Herkesin ileriki günlerde daha aktif olması gerektiğine karar verildi. 
+
 •**Sprint Retrospective:** 
 
 -Daily scrumlara verilen önemin artırılması gerektiği kararlaştırıldı.
