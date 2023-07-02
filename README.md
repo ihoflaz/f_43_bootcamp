@@ -49,7 +49,7 @@ SocialPet, evcil hayvanlarınızın sorunlarına yönelik gerek uzman veterinerl
 
 -Evcil hayvan ürünleri ve hizmetleri sağlayıcıları
 
-## Sprint 1
+## SPRINT 1
 
 •**Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan
 
@@ -85,6 +85,39 @@ Katılımcılar: scrum master, product owner, developer team
 
 -Gelecek sprintlerde daha aktif olunması gerektiği kararlaştırıldı.
 
+
+## SPRINT 2
+
+•**Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan
+
+•**Puan tamamlama mantığı:** Buradaki task ve user storyler toplamda 300 puan olan projenin, 1. sprintte 100 puanlık görevlerini tamamlamamız için belirlenmiştir.Her bir görevin puanı içerisindeki açıklamalar bölümünde belirtilmiştir.
+
+•**Daily Scrum:**  Daha kolay iletişim kurulabileceği için görüşmelerin Whatsapp üzerinden yapılmasına karar verilmiştir. Toplantılar Discord üzerinden yapılmıştır. 
+
+
+
+
+•**Sprint board update:**
+
+
+
+
+•**Ürün durumu:**
+
+
+
+
+
+•**Sprint Review:** Bu sprintte giriş sayfası, profil sayfası ve sondadan geliştirileceğini belirteceğimiz sayfaların UI kodlamaları yapılmıştır. 
+Katılımcılar: scrum master, product owner, developer team
+
+•**Sprint-1 Notu:** Sprint-2 aşamasında takımdaki bazı aksiliklerden dolayı daily scrum istediğimiz aktiflikte yapılamadı. Diğer sprintte dikkat edilmesi gerektiği vurgulandı. Herkesin önümüzdeki sprintte daha aktif olması gerektiğine karar verildi. 
+
+•**Sprint Retrospective:** 
+
+-Daily scrumlara verilen önemin artırılması gerektiği kararlaştırıldı.
+
+-Gelecek sprintlerde daha aktif olunması gerektiği kararlaştırıldı.
 
 
 
