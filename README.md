@@ -93,7 +93,7 @@ Katılımcılar: scrum master, product owner, developer team
 •**Puan tamamlama mantığı:** Buradaki task ve user storyler toplamda 300 puan olan projenin, 1. sprintte 100 puanlık görevlerini tamamlamamız için belirlenmiştir.Her bir görevin puanı içerisindeki açıklamalar bölümünde belirtilmiştir.
 
 •**Daily Scrum:**  Daha kolay iletişim kurulabileceği için görüşmelerin Whatsapp üzerinden yapılmasına karar verilmiştir. Toplantılar Discord üzerinden yapılmıştır. 
-
+[Sprint 2 Daily Scrum Chats.docx](https://github.com/ihoflaz/f_43_bootcamp/files/11930177/Sprint.2.Daily.Scrum.Chats.docx)
 
 
 
@@ -103,9 +103,9 @@ Katılımcılar: scrum master, product owner, developer team
 
 
 •**Ürün durumu:**
+![Screenshot_1688318075](https://github.com/ihoflaz/f_43_bootcamp/assets/135666365/d7d4a195-d81c-4559-99ed-cfb2afbd986f)
 
-
-
+![Screenshot_1688318095](https://github.com/ihoflaz/f_43_bootcamp/assets/135666365/e5684239-a3b5-4951-a3d0-30f5c5fcde0a)
 
 
 •**Sprint Review:** Bu sprintte giriş sayfası, profil sayfası ve sondadan geliştirileceğini belirteceğimiz sayfaların UI kodlamaları yapılmıştır. 
