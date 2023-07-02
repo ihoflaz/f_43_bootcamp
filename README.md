@@ -111,7 +111,7 @@ Katılımcılar: scrum master, product owner, developer team
 •**Sprint Review:** Bu sprintte giriş sayfası, profil sayfası ve sondadan geliştirileceğini belirteceğimiz sayfaların UI kodlamaları yapılmıştır. 
 Katılımcılar: scrum master, product owner, developer team
 
-•**Sprint-1 Notu:** Sprint-2 aşamasında takımdaki bazı aksiliklerden dolayı daily scrum istediğimiz aktiflikte yapılamadı. Diğer sprintte dikkat edilmesi gerektiği vurgulandı. Herkesin önümüzdeki sprintte daha aktif olması gerektiğine karar verildi. 
+•**Sprint-2 Notu:** Sprint-2 aşamasında takımdaki bazı yoğunluklardan dolayı daily scrum istediğimiz aktiflikte yapılamadı. Diğer sprintte dikkat edilmesi gerektiği vurgulandı. Herkesin önümüzdeki sprintte daha aktif olması gerektiğine karar verildi. 
 
 •**Sprint Retrospective:** 
 
