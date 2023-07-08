@@ -1,5 +1,5 @@
-
-
+import 'package:f_43_bootcamp/Pages/home_page.dart';
+import 'package:f_43_bootcamp/Pages/profile_page.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:google_nav_bar/google_nav_bar.dart';
@@ -25,8 +25,10 @@ class BottomNavBarWidget extends StatelessWidget {
          icon: Icons.home, 
          text: "Home",
          onPressed: () {
-          
-        } ),
+          Navigator.push(context, MaterialPageRoute(builder: (context) => HomePage()),
+          );
+         }
+        ),
         GButton(
           icon: Icons.favorite_border, 
           text: "Likes",
@@ -39,6 +41,10 @@ class BottomNavBarWidget extends StatelessWidget {
         GButton(
           icon: Icons.account_circle_outlined, 
           text: "Profile",
+          onPressed: (){
+            Navigator.push(context, MaterialPageRoute(builder: (context) => ProfilePage())
+            );
+          },
         ),
       ]
      );

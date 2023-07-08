@@ -1,7 +1,7 @@
 import 'package:f_43_bootcamp/Pages/home_page.dart';
 import 'package:f_43_bootcamp/constants.dart';
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
+
 
 class SplashPage extends StatefulWidget {
   const SplashPage({super.key});
@@ -32,7 +32,7 @@ class _SplashPageState extends State<SplashPage> {
               ),
               child: Text(
                 'SOCIALpet, \nHayvan Dostlarımıza Dair Her Şey...',
-                style: GoogleFonts.josefinSans(
+                style: TextStyle(
                 color: Colors.black54,
                 fontSize: 40,       
                ),
