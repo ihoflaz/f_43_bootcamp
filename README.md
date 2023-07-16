@@ -150,7 +150,8 @@ Her bir görevin puanı içerisindeki açıklamalar bölümünde belirtilmişti
 
 
 
-•**Sprint Review:** Bu sprintte login ve profil sayfalarının UI kodlamaları yapılmıştır. 
+•**Sprint Review:** Bu sprintte login,register ve profil sayfalarının UI kodlamaları yapılmıştır. 
+
 Katılımcılar: scrum master, product owner, developer team
 
 •**Sprint-2 Notu:** Sprint-3 aşamasında takımdan aktif olamadığı için bir arkadışımız ayrıldı.Bununla beraber iş yükü paylaşımı yapıldı.Herkes yoğun olmasına rağmen aktif olmak için elinden geleni yaptı.
