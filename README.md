@@ -7,9 +7,9 @@ Takım Flutter 43
 ## Takım Elemanları
 - **Zeynep Betül Hoş:** Product Owner / Developer
 - **Nursena Akbaba:** Scrum Master / Developer
-- **İbrahim Hulusi Oflaz:** Developer
 - **Bülent Çoruh:** Developer
 - **Gökhan Özkaya:** Developer
+- **İbrahim Hulusi Oflaz:** Aktif olmayan üye
 
 ## Ürün İsmi
 
@@ -123,6 +123,43 @@ Katılımcılar: scrum master, product owner, developer team
 -Daily scrumlara verilen önemin artırılması gerektiği kararlaştırıldı.
 
 -Gelecek sprintlerde daha aktif olunması gerektiği kararlaştırıldı.
+
+
+## SPRINT 3
+
+•**Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan
+
+•**Puan tamamlama mantığı:** Buradaki task ve user story ler bizim 3. sprintte toplamda 300 puan olan projenin üçüncü 100 puanlık görevlerini tamamlamamız için belirlendi.
+
+Amacımız projenin kodlamalarında ilerlemek, UI tasarımları üzerinden sayfaların çoğunu hazırlamak ve backend tarafına hazır hale getirmek
+
+Her bir görevin puanı içerisindeki açıklamalar bölümünde belirtilmiştir.
+
+•**Daily Scrum:**  Daha kolay iletişim kurulabileceği için görüşmelerin Whatsapp üzerinden yapılmasına karar verilmiştir. Toplantılar Discord üzerinden yapılmıştır. 
+[Sprint 3 Daily Scrum Chats.docx](https://github.com/ihoflaz/f_43_bootcamp/files/12065294/Sprint.3.Daily.Scrum.Chats.docx)
+
+
+
+
+
+•**Sprint board update:**
+
+
+
+•**Ürün durumu:**
+
+
+
+•**Sprint Review:** Bu sprintte login ve profil sayfalarının UI kodlamaları yapılmıştır. 
+Katılımcılar: scrum master, product owner, developer team
+
+•**Sprint-2 Notu:** Sprint-3 aşamasında takımdan aktif olamadığı için bir arkadışımız ayrıldı.Bununla beraber iş yükü paylaşımı yapıldı.Herkes yoğun olmasına rağmen aktif olmak için elinden geleni yaptı.
+
+•**Sprint Retrospective:** 
+
+-Bir sonraki çalışmalarda görev paylaşımının daha iyi yapılması planlandı.
+
+-Daha aktif olunması gerektiği kararlaştırıldı.
 
 
 
