@@ -80,7 +80,7 @@ class _ProfilePageState extends State<ProfilePage> {
             ),
             const SizedBox(height: 10.0),
             const Text(
-              'Melisa Yıldız',
+              'Melisa Yılmaz',
               style: TextStyle(
                 fontSize: 18.0,
                 fontWeight: FontWeight.bold,
