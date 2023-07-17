@@ -148,6 +148,7 @@ Her bir görevin puanı içerisindeki açıklamalar bölümünde belirtilmişti
 
 
 •**Ürün durumu:**
+
 ![WhatsApp Görsel 2023-07-17 saat 05 57 26](https://github.com/ihoflaz/f_43_bootcamp/assets/135666365/ca1c3b59-dd84-4fca-b89f-6a8ffa8522ed)
 
 ![WhatsApp Görsel 2023-07-17 saat 05 57 53](https://github.com/ihoflaz/f_43_bootcamp/assets/135666365/10d8478c-47ad-486b-9258-cfdfa751733f)
