@@ -1,8 +1,8 @@
-import 'package:f_43_bootcamp/Pages/home_page.dart';
-import 'package:f_43_bootcamp/Pages/splash.dart';
-import 'package:f_43_bootcamp/constants.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+
+import 'Pages/splash.dart';
+import 'constains/constants.dart';
 
 void main() {
   runApp(const MyApp());
@@ -16,14 +16,14 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         scaffoldBackgroundColor: kBackgroundColor,
-        appBarTheme: AppBarTheme(
+        appBarTheme: const AppBarTheme(
           systemOverlayStyle: SystemUiOverlayStyle.dark,
           backgroundColor: Colors.transparent,
           elevation: 0,
         ),
         
       ),
-      home: SplashPage(),
+      home: const SplashPage(),
     );
   }
 }

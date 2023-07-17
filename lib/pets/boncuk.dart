@@ -31,8 +31,8 @@ class BoncukPage extends StatelessWidget {
       ),
       body: Column(
         children: [
-          Image.network(
-            'https://cdn.pixabay.com/photo/2016/03/28/10/05/kitten-1285341_1280.jpg',
+          Image.asset(
+            'assets/png/Boncuk2.jpg',
             fit: BoxFit.fitWidth,
           ),
           const SizedBox(height: 15.0),

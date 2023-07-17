@@ -1,6 +1,8 @@
-import 'package:f_43_bootcamp/Pages/home_page.dart';
-import 'package:f_43_bootcamp/constants.dart';
+
 import 'package:flutter/material.dart';
+import '../LoginPage/LoginView.dart';
+import '../constains/constants.dart';
+import 'home_page.dart';
 
 
 class SplashPage extends StatefulWidget {
@@ -49,7 +51,7 @@ class _SplashPageState extends State<SplashPage> {
         ),
         child: FloatingActionButton( 
           onPressed: () {
-            Navigator.of(context).push(MaterialPageRoute(builder: (context) => HomePage(),));
+            Navigator.of(context).push(MaterialPageRoute(builder: (context) => LoginPage(),));
           },
           backgroundColor: AccentOrangeColor,
            child: Icon(Icons.double_arrow_rounded, color: Colors.black54),

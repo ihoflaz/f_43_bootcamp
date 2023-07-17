@@ -1,10 +1,10 @@
-import 'package:f_43_bootcamp/Pages/home_page.dart';
-import 'package:f_43_bootcamp/Pages/profile_page.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:google_nav_bar/google_nav_bar.dart';
 
-import '../constants.dart';
+import '../Pages/home_page.dart';
+import '../Pages/profile_page.dart';
+import '../constains/constants.dart';
 
 class BottomNavBarWidget extends StatelessWidget {
   const BottomNavBarWidget({

@@ -30,9 +30,8 @@ class GecePage extends StatelessWidget {
       ),
       body: Column(
         children: [
-          Image.network(
-            'https://cdn.pixabay.com/photo/2013/06/30/17/49/domestic-cat-142453_640.jpg',
-            height: 250.0,
+          Image.asset(
+            'assets/png/Gece2.jpg',
             fit: BoxFit.fitWidth,
           ),
           const SizedBox(height: 15.0),

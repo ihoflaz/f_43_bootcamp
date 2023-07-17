@@ -37,6 +37,8 @@ dependencies:
   cupertino_icons: ^1.0.2
   curved_navigation_bar: ^1.0.3
   google_nav_bar: ^5.0.6
+  google_maps_flutter: ^2.3.1
+  google_maps_flutter_web: ^0.5.1
 
 
 dev_dependencies:

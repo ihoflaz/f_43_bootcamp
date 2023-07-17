@@ -32,8 +32,8 @@ class LadyPage extends StatelessWidget {
         scrollDirection: Axis.vertical,
         child: Column(
           children: [
-            Image.network(
-              'https://cdn.pixabay.com/photo/2018/04/06/15/29/dog-3296042_1280.jpg',
+            Image.asset(
+              'assets/png/Lady2.jpg',
               fit: BoxFit.fitWidth,
             ),
             const SizedBox(height: 15.0),

@@ -1,5 +1,3 @@
-
-import 'package:f_43_bootcamp/widgets/bottomNav_bar.dart';
 import 'package:flutter/material.dart';
 
 import '../pets/boncuk.dart';
@@ -7,6 +5,7 @@ import '../pets/gece.dart';
 import '../pets/kaptan.dart';
 import '../pets/lady.dart';
 import '../pets/max.dart';
+import '../widgets/bottomNav_bar.dart';
 
 
 class ProfilePage extends StatefulWidget {
@@ -73,8 +72,8 @@ class _ProfilePageState extends State<ProfilePage> {
                 ],
               ),
               child: ClipOval(
-                child: Image.network(
-                  'https://cdn.pixabay.com/photo/2016/03/23/04/01/woman-1274056_1280.jpg',
+                child: Image.asset(
+                  'assets/png/Melisa.jpg',
                   fit: BoxFit.cover,
                 ),
               ),
@@ -119,9 +118,9 @@ class _ProfilePageState extends State<ProfilePage> {
               ),
               width: 350.0,
               padding: const EdgeInsets.all(10.0),
-              child: Column(
+              child: const Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
-                children: const [
+                children: [
                   Text(
                     'Email',
                     style: TextStyle(
@@ -130,7 +129,7 @@ class _ProfilePageState extends State<ProfilePage> {
                     ),
                   ),
                   Text(
-                    'example@example.com',
+                    'mlisaylmaz21@gmail.com',
                     style: TextStyle(fontSize: 16.0),
                   ),
                 ],
@@ -144,9 +143,9 @@ class _ProfilePageState extends State<ProfilePage> {
               ),
               width: 350.0,
               padding: const EdgeInsets.all(10.0),
-              child: Column(
+              child: const Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
-                children: const [
+                children: [
                   Text(
                     'Telefon Numarası',
                     style: TextStyle(
@@ -169,9 +168,9 @@ class _ProfilePageState extends State<ProfilePage> {
               ),
               width: 350.0,
               padding: const EdgeInsets.all(10.0),
-              child: Column(
+              child: const Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
-                children: const [
+                children: [
                   Text(
                     'Şehir',
                     style: TextStyle(
@@ -201,7 +200,7 @@ class _ProfilePageState extends State<ProfilePage> {
                 ),
               ),
             ),
-            const SizedBox(height: 5.0),
+            const SizedBox(height: 2.0),
             SingleChildScrollView(
               scrollDirection: Axis.horizontal,
               child: Padding(
@@ -235,11 +234,10 @@ class _ProfilePageState extends State<ProfilePage> {
                             const SizedBox(height: 2.0),
                             ClipRRect(
                               borderRadius: BorderRadius.circular(10.0),
-                              child: Image.network(
-                                'https://cdn.pixabay.com/photo/2014/11/30/14/11/cat-551554_1280.jpg',
+                              child: Image.asset(
+                                'assets/png/Boncuk1.jpg',
                                 height: 80.0,
-                                width: 100.0,
-
+                                width: 90.0,
                               ),
                             ),
                           ],
@@ -274,10 +272,10 @@ class _ProfilePageState extends State<ProfilePage> {
                             const SizedBox(height: 2.0),
                             ClipRRect(
                               borderRadius: BorderRadius.circular(10.0),
-                              child: Image.network(
-                                'https://cdn.pixabay.com/photo/2016/02/19/15/46/labrador-retriever-1210559_1280.jpg',
+                              child: Image.asset(
+                                'assets/png/Max1.jpg',
                                 height: 80.0,
-
+                                width: 90.0,
                               ),
                             ),
                           ],
@@ -312,10 +310,10 @@ class _ProfilePageState extends State<ProfilePage> {
                             const SizedBox(height: 2.0),
                             ClipRRect(
                               borderRadius: BorderRadius.circular(10.0),
-                              child: Image.network(
-                                'https://cdn.pixabay.com/photo/2019/12/30/05/22/bird-4728857_1280.jpg',
+                              child: Image.asset(
+                                'assets/png/Kaptan1.jpg',
                                 height: 80.0,
-
+                                width: 90.0,
                               ),
                             ),
                           ],
@@ -350,10 +348,10 @@ class _ProfilePageState extends State<ProfilePage> {
                             const SizedBox(height: 2.0),
                             ClipRRect(
                               borderRadius: BorderRadius.circular(10.0),
-                              child: Image.network(
-                                'https://cdn.pixabay.com/photo/2016/01/05/17/51/maltese-1123016_1280.jpg',
+                              child: Image.asset(
+                                'assets/png/Lady1.jpg',
                                 height: 80.0,
-
+                                width: 90.0,
                               ),
                             ),
                           ],
@@ -388,10 +386,10 @@ class _ProfilePageState extends State<ProfilePage> {
                             const SizedBox(height: 2.0),
                             ClipRRect(
                               borderRadius: BorderRadius.circular(10.0),
-                              child: Image.network(
-                                'https://cdn.pixabay.com/photo/2013/04/01/03/45/cat-98359_1280.jpg',
+                              child: Image.asset(
+                                'assets/png/Gece1.jpg',
                                 height: 80.0,
-
+                                width: 90.0,
                               ),
                             ),
                           ],

@@ -30,8 +30,8 @@ class KaptanPage extends StatelessWidget {
       ),
       body: Column(
         children: [
-          Image.network(
-            'https://cdn.pixabay.com/photo/2015/07/23/08/58/ara-856574_1280.jpg',
+          Image.asset(
+            'assets/png/Kaptan2.jpg',
             fit: BoxFit.fitWidth,
           ),
           const SizedBox(height: 15.0),
